@@ -1,0 +1,31 @@
+
+# Generated data and model experiment artifacts
+/data/
+/outputs/
+
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Editor settings
+.vscode/
+.idea/
